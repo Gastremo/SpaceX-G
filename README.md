@@ -6,4 +6,4 @@ system:Python
 
 language:python
 
-licention:
+licention:GNU GENERAL PUBLIC LICENSE
