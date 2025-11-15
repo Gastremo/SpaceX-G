@@ -1,5 +1,4 @@
-#!PYTHON
-#GASTREMO
+
 
 #! /usr/bin/python3
 
